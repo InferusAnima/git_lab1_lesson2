@@ -1,0 +1,16 @@
+в master 1 строка README:
+Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
+а в demo:
+Create release branch with human (master) in boots (boots branch) and hat (hat branch).
+
+10 комитов:
+Merge branch 'boots_buttons' into master
+Merge remote-tracking branch 'origin/hat' into master
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
